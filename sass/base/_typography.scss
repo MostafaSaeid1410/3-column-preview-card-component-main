@@ -1,0 +1,21 @@
+@import '../abstracts/variables';
+body {
+  background-color: $color-grey-light-1;
+  font-family: $default-font-family;
+  font-weight: 400;
+  font-size: $default-font-size;
+  line-height: 1.7;
+  color: $color-grey-dark;
+}
+
+.paragraph {
+  color: $color-grey-light-2;
+  padding-right: 3.8rem;
+}
+
+.heading-secondary {
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+  font-size: 4.2rem;
+  color: $color-grey-light-1;
+}
